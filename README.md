@@ -1,4 +1,4 @@
 node-ectrender
 ==============
 
-ECTJS Renreder wrapped in a command line tool.
+ECTJS Renderer wrapped in a command line tool.
