@@ -1,5 +1,5 @@
 {
-  "name": "ect-renderer",
+  "name": "ectrender",
   "version": "0.1.0",
   "description": "ECTJS Renderer wrapped in a command line tool.",
   "main": "index.js",
@@ -7,6 +7,14 @@
     "ect": "~0.5.6",
     "argparse": "~0.1.15"
   },
+  "license": "MIT",
+  "bin": {
+      "ectrender": "./bin/ectrender"
+  },
   "devDependencies": {},
-  "author": "Jeremy Faivre <jeremy.faivre@milibris.com>"
+  "author": "Jeremy Faivre <jeremy.faivre@milibris.com>",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/miLibris/node-ectrender.git"
+  }
 }
